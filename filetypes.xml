@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="_redirects" type="AUTO_DETECTED" />
+      <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
+      <removed_mapping ext="tpl" approved="true" type="Smarty" />
+      <removed_mapping pattern=".analysis_options" approved="true" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
