@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="tpl" type="PHP" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <removed_mapping ext="tpl" approved="true" type="Smarty" />
-      <mapping ext="tpl" type="PHP" />
     </extensionMap>
   </component>
 </application>
